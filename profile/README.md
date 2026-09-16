@@ -7,7 +7,7 @@
 **Free, open-source tooling for GTA V addon clothing.**
 
 Build, preview and ship clothing and tattoos for
-**FiveM · Singleplayer · RageMP · alt:V**.
+**FiveM · Singleplayer**.
 
 [![Latest release](https://img.shields.io/github/v/release/grandTheftAtelier/atelier?color=5865F2&label=atelier)](https://github.com/grandTheftAtelier/atelier/releases/latest)
 &nbsp;[![Downloads](https://img.shields.io/github/downloads/grandTheftAtelier/atelier/total?color=1f1f1f)](https://github.com/grandTheftAtelier/atelier/releases)
